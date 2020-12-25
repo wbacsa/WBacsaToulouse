@@ -21,6 +21,7 @@ main research activities
 
 - electrodynamics
 - electrodynamics in matter
+- general mechanics
 - thermodynamics
 - wave optics
 - light and color
