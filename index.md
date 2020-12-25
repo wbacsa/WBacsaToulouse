@@ -1,4 +1,4 @@
-## Wolfgang S. Bacsa 
+### Wolfgang S. Bacsa 
 
 Research and teaching activity 
 
