@@ -1,6 +1,6 @@
 ## Wolfgang S. Bacsa 
 
-Reserach and teaching activity 
+Research and teaching activity 
 
 ## Research
 
