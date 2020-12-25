@@ -1,4 +1,4 @@
-### Wolfgang S. Bacsa 
+# Wolfgang S. Bacsa 
 
 Research and teaching activity 
 
@@ -6,12 +6,12 @@ Research and teaching activity
 
 main research activities 
 
-Nano Carbon
+### Nano Carbon
 - carbon nanotube polymer composites
 - carbon notubes electrodes
 - graphene bubbles
 
-Nano Optics
+### Nano Optics
 - optical intermediate field holography
 - interference substrate for optical observation of nanoscale systems
 - finite size effect of the focal spot
