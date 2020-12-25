@@ -8,7 +8,7 @@ main research activities
 
 ### Recent highlight
 
-Springer Brief in Physics: **Optics Near Surfaces and at the Nanometer scale**, Wolfgang Bacsa, Revathi Bacsa, Tim Myers (9/2020)
+Springer Brief in Physics: **Optics Near Surfaces and at the Nanometer Scale**, Wolfgang Bacsa, Revathi Bacsa, Tim Myers (9/2020)
 (ISBN 978-3-030-58982-0)
 
 ### Nano Carbon
