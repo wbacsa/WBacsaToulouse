@@ -8,9 +8,7 @@ main research activities
 
 ### Recent Highlight
 
-- 9/2020: understanding optical interference and diffraction near surfaces 
-- **Optics Near Surfaces and at the Nanometer Scale**, Wolfgang Bacsa, Revathi Bacsa, Tim Myers, Springer Brief in Physics
-(ISBN 978-3-030-58982-0)
+- 9/2020: understanding optical interference and diffraction near surfaces  **Optics Near Surfaces and at the Nanometer Scale**, Wolfgang Bacsa, Revathi Bacsa, Tim Myers, Springer Brief in Physics  (ISBN 978-3-030-58982-0)
 
 ### Nano Carbon
 - carbon nanotube polymer composites
