@@ -17,6 +17,14 @@ main research activities
 - finite size effect of the focal spot
 
 
+## Teaching
+
+- electrodynamics
+- electrodynamics in matter
+- thermodynamics
+- wave optics
+- light and color
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
