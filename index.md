@@ -6,10 +6,13 @@ Research and teaching activity
 
 main research activities 
 
-- graphene bubbles
-- optical intermediate field holography
+Nano Carbon
 - carbon nanotube polymer composites
 - carbon notubes electrodes
+- graphene bubbles
+
+Nano Optics
+- optical intermediate field holography
 - interference substrate for optical observation of nanoscale systems
 - finite size effect of the focal spot
 
